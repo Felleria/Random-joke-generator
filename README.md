@@ -22,7 +22,7 @@ Simple Interface: The interface is intuitive and easy to use, making it suitable
 No Ads: We believe in providing a seamless and enjoyable user experience, which is why the app is free from any distracting advertisements.
 
 ## Live link
-You can access the live version of the app here.
+You can access the live version of the app using this link
 [https://felleria.github.io/Random-joke-generator/]
 
 ## License
