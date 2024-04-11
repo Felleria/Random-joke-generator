@@ -6,13 +6,15 @@
 }
 
 
-h2 {
+h2{
     text-align: center;
     padding: 50px 40px;
+    color: #000000;
+
 }
 
 body{
-    background-color: #fab22e;
+    background-image: url(images/laugh.webp);
 }
 .wrapper{
     width: 80vmin;

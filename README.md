@@ -15,7 +15,7 @@ To use the Joke Generator App, follow these simple steps:
 
 ## Features
 
-Random Jokes: The app generates jokes randomly from a collection of humorous content, ensuring a fresh and entertaining experience every time.
+Get Random Jokes: The app generates jokes randomly from a collection of humorous content, ensuring a fresh and entertaining experience every time.
 
 Simple Interface: The interface is intuitive and easy to use, making it suitable for users of all ages.
 
