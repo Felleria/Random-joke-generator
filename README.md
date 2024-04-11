@@ -40,7 +40,11 @@ You use git clone to be able to download the documents in the GitHub
 
 
 ## installation instruction
-``` Git clone https://github.com/Felleria/Random-joke-generator.git
+
+``` 
+
+Git clone https://github.com/Felleria/Random-joke-generator.git
+
 ```
 
 ## License
