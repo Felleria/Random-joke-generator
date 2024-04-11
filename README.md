@@ -25,7 +25,17 @@ No Ads: We believe in providing a seamless and enjoyable user experience, which 
 You can access the live version of the app using this link
 [https://felleria.github.io/Random-joke-generator/]
 
+# installation
+You use git clone to be able to download the documents in the GitHub
+
+# installation requirements
+&middot; Git
+
+# installation instruction
+``` Git clone https://github.com/Felleria/Random-joke-generator.git
+
 ## License
+
 MIT License
 
 Copyright (c) 2024 Felleria
