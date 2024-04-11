@@ -1,0 +1,13 @@
+{
+    "name": "@felleria/Random-joke-generator",
+    "version": "1.0.0",
+    "description": "simple application is designed to bring a smile to your face by generating random jokes for your entertainment. Whether you're feeling down or just need a good laugh, this app has got you covered.Welcome to the Joke Generator App! This simple application is designed to bring a smile to your face by generating random jokes for your entertainment. Whether you're feeling down or just need a good laugh, this app has got you covered",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Felleria",
+    "license": "MIT"
+
+  }
+  
