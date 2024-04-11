@@ -1,6 +1,6 @@
 # Joke Generator App
 
-Welcome to the Joke Generator App! This simple application is designed to bring a smile to your face by generating random jokes for your entertainment. Whether you're feeling down or just need a good laugh, this app has got you covered.Welcome to the Joke Generator App! This simple application is designed to bring a smile to your face by generating random jokes for your entertainment. Whether you're feeling down or just need a good laugh, this app has got you covered
+Welcome to the Joke Generator App! This simple application is designed to bring a smile to your face by generating random jokes for your entertainment. Whether you're feeling down or just need a good laugh, this app has got you covered.
 
 ## Getting started 
 To use the Joke Generator App, follow these simple steps:
@@ -49,4 +49,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## AUTHOR
-Felleria Nangoma
+Felleria Nang'oma
